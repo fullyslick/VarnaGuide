@@ -1,0 +1,223 @@
+<resources>
+    <string name="app_name">Varna Guide</string>
+    <string name="sights">Sights</string>
+    <string name="muesums">Museums</string>
+    <string name="restaurans">Restaurants</string>
+    <string name="bars">Bars</string>
+    <!-- Test Strings -->
+    <string name="titleTest">Generic Title Test That Is A Bit Long To Show But It Is Showing</string>
+    <string name="addresstest">43 Address Test</string>
+    <string name="loactionURITest">43.2002299,27.9180548</string>
+    <string name="workingHoursTest">Mon - Sun 08:00 - 23:00</string>
+    <string name="phoneTest">+359 895 784 018</string>
+    <string name="siteUrlTest">http://www.abv.bg</string>
+    <string name="descriptionTest">Test Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+    <!-- SIGHTS -->
+    <!-- Sea Garden -->
+    <string name="title_sea_garden">Sea Garden</string>
+    <string name="address_sea_garden">Sea Graden Entrance, 9002 Varna</string>
+    <string name="loactionURI_sea_garden">43.203780,27.922384</string>
+    <string name="workingHours_sea_garden">24 Hours</string>
+    <string name="description_sea_garden">The Seaside Garden (Bulgarian:  Morska gradina) is the Bulgarian port city of Varna\'s largest, oldest and best known public park, also said to be the largest landscaped park in the Balkans. The park is the favourite place for recreation and fun of the citizens of Varna. Apart from the long alleys for promenades, the sea coast with the beach and numerous restaurants, bars and clubs, one could also enjoy a swimming pool complex and a children\'s playing ground with mini-entertainment park and a small pond with boats.</string>
+    <!-- Cathedral of the Assumption of the Virgin -->
+    <string name="title_cathedral">Cathedral of the Assumption of the Virgin</string>
+    <string name="address_cathedral">pl. Sveti Sveti Kiril I Metodiy 2, 9000 Varna</string>
+    <string name="loactionURI_cathedral">43.2053013,27.9099775</string>
+    <string name="workingHours_cathedral">All Week: 8:00 - 18:00</string>
+    <string name="description_cathedral">The Dormition of the Mother of God Cathedral is the largest and most famous Bulgarian Orthodox cathedral in the Bulgarian Black Sea port city of Varna, and the second largest in Bulgaria (after cathedral Alexander Nevski in Sofia). Officially opened on 30 August 1886. It is the residence of the bishopric of Varna and Preslav and one of the symbols of Varna.</string>
+    <!-- The Roman Thermae -->
+    <string name="title_roman_therms">The Roman Thermae</string>
+    <string name="address_roman_therms">ul. San Stefano, 9000 Varna</string>
+    <string name="loactionURI_roman_therms">43.2002299,27.9180548</string>
+    <string name="workingHours_roman_therms">Tue - Fri: 9:00 - 19:00; Sun - Mon: 9:00 - 18:00 </string>
+    <string name="description_roman_therms">The Roman Thermae (Bulgarian: Rimski termi) are a complex of Ancient Roman baths (thermae) in the Black Sea port city of Varna in northeastern Bulgaria. The Roman Thermae are situated in the southeastern part of the modern city, which under the Roman Empire was known as Odessus. The baths were constructed in the late 2nd century AD and rank as the fourth-largest preserved Roman thermae in Europe and the largest in the Balkans.</string>
+    <!-- Pobiti Kamani -->
+    <string name="title_pobiti_kamuni">Pobiti Kamani</string>
+    <string name="address_pobiti_kamuni">9144 Slanchevo Rd</string>
+    <string name="loactionURI_pobiti_kamuni">43.228559,27.705888</string>
+    <string name="workingHours_pobiti_kamuni">All Week: 9:30 - 19:30</string>
+    <string name="description_pobiti_kamuni">Pobiti Kamani, also known as The Stone Desert, is a desert-like rock phenomenon located on the north west Varna Province border in Bulgaria. It is considered the only desert in Bulgaria and one of few found in Europe. The desert consists of sand dunes and several groups of natural rock formations on a total area of 13 square km. The formations are mainly stone columns between 5 and 7 meters high and from 0.3 to 3 meters thick.</string>
+    <!-- Aladzha Monastery -->
+    <string name="title_alajata">Aladzha Monastery</string>
+    <string name="address_alajata">Golden Sands Reserve, 9007 Varna</string>
+    <string name="loactionURI_alajata">43.277409,28.017645</string>
+    <string name="workingHours_alajata">All Week: 09:00 - 22:00 </string>
+    <string name="description_alajata">Aladzha Monastery is the most famous medieval cave monastery on the Bulgarian Black Sea coast. It was inhabited by hermit monks during the XIII- XIV centuries. It was in the end of XIX century when the founders of the Bulgarian archaeology - Shkorpil brothers, Karel and Hermin, began to systematically study this Christian monument. The monastery caves are hewn on two levels into an almost 40m high limestone rock. The first level consists of a monastery church, monastic cells, a dining premise and a kitchen, a small cemetery church, a crypt (bone-vault) and farm premises. The second level is a natural cave recess in the eastern end of which there is a monastery chapel.</string>
+    <!-- Morska Gara -->
+    <string name="title_morska_gara">Morska Gara</string>
+    <string name="address_morska_gara">bul. Primorski 27, 9000 Varna</string>
+    <string name="loactionURI_morska_gara">43.195455,27.921084</string>
+    <string name="workingHours_morska_gara">24 Hours</string>
+    <string name="description_morska_gara">Sea Station (Bulgarian: Morska Gara) is located on the old port of Varna. This pedestrian area is a good place to have a walk, ride a bike, take a boat trip or just enjoy the sunset. It is the top spot for the fishermen in the city. Some events and festivals usually take place there during the summer. There are also restaurants, bars and parking where you can leave your car and take a walk in the Sea Garden.</string>
+    <!-- Dolphinarium -->
+    <string name="title_dolphinarium">Dolphinarium</string>
+    <string name="address_dolphinarium">jk. Saltanat 43, 9010 Varna</string>
+    <string name="loactionURI_dolphinarium">43.212755,27.943430</string>
+    <string name="workingHours_dolphinarium">Shows Starts Every Day: on 12:00 and on 15:30</string>
+    <string name="description_dolphinarium">Dolphinarium is the only attraction of its kind in Bulgaria. It is situated amidst the greenery of the Seaside Garden of Varna and offers a wonderful view over the sea. The Dolphinarium was inaugurated on 11.08.1984 and quickly became a symbol of Varna and a landmark of Bulgarian tourism. The Dolphinarium is a permanent site on the agenda of all visitors of the Black Sea coast.</string>
+    <string name="phone_dolphinarium">+35952302199</string>
+    <string name="siteUrl_dolphinarium">http://dolphinarium.festa.bg/en</string>
+    <!-- MUSEUMS -->
+    <!-- Archaeological Museum -->
+    <string name="title_arch_museum">Archaeological Museum</string>
+    <string name="address_arch_museum">bul. Mariya Luisa 41, 9000 Varna</string>
+    <string name="loactionURI_arch_museum">43.2076033,27.9148604</string>
+    <string name="workingHours_arch_museum">All Week: 10:00 - 17:00</string>
+    <string name="description_arch_museum">One of the largest museums in Bulgaria, it features 2,150 square mteres of exhibition area and displays objects from the prehistoric, Thracian, Ancient Greek and Ancient Roman periods of the region\'s history, as well as from the times of the medieval Bulgarian and Byzantine Empires, the Ottoman rule and the Bulgarian National Revival (including about 900 medieval and Revival icons). The Museum\'s arguably most celebrated exhibit is the Gold of Varna, the oldest gold treasure in the world, excavated in 1972 and dating to 4600-4200 BCE, which occupies three separate exhibition halls.</string>
+    <string name="phone_arch_museum"> +35952681030</string>
+    <string name="siteUrl_arch_museum">http://archaeo.museumvarna.com/</string>
+    <!-- Boris Georgiev City Art Gallery -->
+    <string name="title_gallery">Boris Georgiev City Art Gallery</string>
+    <string name="address_gallery">ul. Lyuben Karavelov 1, 9002 Varna</string>
+    <string name="loactionURI_gallery">43.2068974,27.9194536</string>
+    <string name="workingHours_gallery">Tue - Sun: 10:00 - 18:00</string>
+    <string name="description_gallery">Boris Georgiev City Art Gallery owns a significant collection of Bulgarian art from the early 20th century onwards, and most notably the largest collection of works by gallery patron Boris Georgiev. Other Bulgarian artists represented in the gallery\'s permanent exhibition are Vladimir Dimitrov, Ivan Milev, Sirak Skitnik , Zlatyu Boyadzhiev, Tsanko Lavrenov, Nayden Petkov,David Peretz, Svetlin Rusev, Daria Vassilaynska. Displayed on the second floor are examples of portrait art from the Dutch Golden Age. The gallery\'s third floor regularly accommodates concerts, plays and readings. In total, the gallery has an area of 1,000 square metres (11,000 sq ft) spread over eight exhibition halls.</string>
+    <string name="phone_gallery">+35952612363</string>
+    <string name="siteUrl_gallery">http://varnacityartgallery.com/</string>
+    <!-- Naval Museum -->
+    <string name="title_naval_museum">Naval Museum</string>
+    <string name="address_naval_museum">bul. Primorski 2, 9000 Varna</string>
+    <string name="loactionURI_naval_museum">43.2003181,27.9215004</string>
+    <string name="workingHours_naval_museum">Tue - Sun: 10:00 - 18:00</string>
+    <string name="description_naval_museum">Naval Museum preserves collections of maritime weapons - mines, coastal and marine artillery, uniforms and decorations, of ship models, large number of photographs. Hundred of thousands are the estimated visitors that have passed in the open and covered expositions, where there are exposed to a total at about 1200 objects. In front of the museum Bulgarian Navy torpedo boat named Durzki is exhibited.</string>
+    <string name="phone_naval_museum">+35952731523</string>
+    <string name="siteUrl_naval_museum">http://www.museummaritime-bg.com/</string>
+    <!-- Park Museum Vladislav Varnenchik -->
+    <string name="title_varnenchek">Park Museum Vladislav Varnenchik</string>
+    <string name="address_varnenchek">bul. Yan Huniyadi 1, 9027 Varna</string>
+    <string name="loactionURI_varnenchek">43.2311005,27.8682601</string>
+    <string name="workingHours_varnenchek">Wed - Sun: 9:00 - 17:00</string>
+    <string name="description_varnenchek">Park Museum Vladislav Varnenchik is a memorial complex, situated in the center of the battlefield, in the middle of an unique park on an area of 30 decares. In the museum exposition are displayed the unique in the country knight\’s armor from that period. In the exposition every visitor has the opportunity to see arms and equipment from XV century, found on the battlefield (helmets, cross-bows, swords, shields, spears, etc.), paintings, sculptures, prints and other works of art, dedicated to the battle of Varna, flags, models, tickets and coats of arms.</string>
+    <string name="phone_varnenchek">+35952740302</string>
+    <string name="siteUrl_varnenchek">http://www.varnenchikmuseum.com/</string>
+    <!-- Aquarium Varna -->
+    <string name="title_aquarium">Aquarium Varna</string>
+    <string name="address_aquarium">bul. Primorski 4, 9000 Varna</string>
+    <string name="loactionURI_aquarium">43.2013581,27.9222558</string>
+    <string name="workingHours_aquarium">Mon - Fri 9:00 - 17:00</string>
+    <string name="description_aquarium">The aquarium\'s exhibition focuses on the Black Sea\'s flora and fauna which includes over 140 fish species, but also features freshwater fish, Mediterranean fish, exotic species from faraway areas of the World Ocean, mussels and algae.</string>
+    <string name="phone_aquarium">+35952632066</string>
+    <string name="siteUrl_aquarium">https://www.facebook.com/aquariumvarna/</string>
+    <!-- Retro Museum -->
+    <string name="title_retro_museum">Retro Museum</string>
+    <string name="address_retro_museum">Grand Mall Varna, ul. Akademik Andrei Saharov 2, 9000 Varna</string>
+    <string name="loactionURI_retro_museum">43.2172968,27.899339</string>
+    <string name="workingHours_retro_museum">All Week: 10:00 - 22:00</string>
+    <string name="description_retro_museum">Retro Museum is located in Grand Mall Varna and is focused on communist era artifacts. On an area of 4000 square meters, you can find more than 50 restored cars, manufactured between 1943 and 1989 from the socialist era. There are also 27 wax figures of ideologists, revolutionaries and national artists such as Todor Zhivkov, Leonid Brezhnev, Fidel Castro, Che Guevara, Erich Honecker, Nicolae Ceausescu, Gustav Husak, Wojciech Jaruzelski, Stalin, Lenin, Vysotsky, and others.</string>
+    <string name="phone_retro_museum">+359886001070</string>
+    <string name="siteUrl_retro_museum">https://www.facebook.com/RetroMuseumBg/</string>
+    <!-- RESTAURANTS -->
+    <!-- Staria Chinar -->
+    <string name="title_staria_chinar">Staria Chinar</string>
+    <string name="address_staria_chinar">ul. Preslav 11, 9000, Varna</string>
+    <string name="loactionURI_staria_chinar">43.199596,27.915145</string>
+    <string name="workingHours_staria_chinar">All Week: 8:00 - 24:00</string>
+    <string name="description_staria_chinar">Situated downtown in Varna city in two-storied house, immersed in an ambience from the last century, Staria Chinar is the right place for your social events. Hospitality is trademark of the Restaurant. You will be welcome and well-looked after, so you can delight the festive moments and fascinated guests with our grill and wood stove proposals, unique homemade meals and BBQ cooked on charcoal. The Restaurant boosts 50 seats on the 1st floor, 50 seats on the 2nd floor and additional 100 seats outdoor in the summer garden.</string>
+    <string name="phone_staria_chinar">+359876520500</string>
+    <string name="siteUrl_staria_chinar">http://www.stariachinar.com/preslav/en/</string>
+    <!-- La Bocca -->
+    <string name="title_labocca">La Bocca</string>
+    <string name="address_labocca">ul. Professor Marin Drinov 66, 9002 Varna</string>
+    <string name="loactionURI_labocca">43.2120026,27.9220171</string>
+    <string name="workingHours_labocca">All Week: 11:00 - 23:00</string>
+    <string name="description_labocca">La Bocca pizzeria offer three basic high quality products - Italian pizza, fresh pasta, fresh big salads. Its kitchen is opened to customers and everything is prepared in front of them. Pizza dough is made every day. All of the products used are Italian imported. The atmosphere is casual, but very pleasant - this in combination with friendly and attentive service makes you relax and feel at home.</string>
+    <string name="phone_labocca">+359888996879</string>
+    <string name="siteUrl_labocca">http://www.labocca.bg/</string>
+    <!-- Bunata -->
+    <string name="title_bunata">Bunata Fish Restaurant</string>
+    <string name="address_bunata">ul. Bregalnitsa 1, 9000 Varna</string>
+    <string name="loactionURI_bunata">43.217553,27.916152</string>
+    <string name="workingHours_bunata">All Week: 10:00 - 23:00</string>
+    <string name="description_bunata">Bunata Fish Restaurant offers good selection of fish dishes. The products are always fresh, the service is fast and the atmosphere is pleasant. This is one of the hidden treasures of Varna, where you can enjoy quality Black Sea food.</string>
+    <string name="phone_bunata">+359884870791</string>
+    <string name="siteUrl_bunata">https://www.facebook.com/%D0%91%D1%83%D0%BD%D0%B0%D1%82%D0%B0-242673855894723/?fref=ts</string>
+    <!-- El Kapan -->
+    <string name="title_elkapan">El Kapan</string>
+    <string name="address_elkapan">bul. Primorski 119, 9002 Varna</string>
+    <string name="loactionURI_elkapan">43.203518,27.924954</string>
+    <string name="workingHours_elkapan">All Week: 9:00 - 24:00</string>
+    <string name="description_elkapan">El Kapan is located on the beach of Varna, and it offers a variety of dishes - fishes, salads, meat. The place has a Caribbean style decoration and offers beautiful view to the Black Sea. There is a live music on the second floor during the summer nights. The service is good and prices are average.</string>
+    <string name="phone_elkapan">+359883778977</string>
+    <string name="siteUrl_elkapan">https://www.facebook.com/ElKapan</string>
+    <!-- Happy Bar And Grill -->
+    <string name="title_happy">Happy Bar And Grill</string>
+    <string name="address_happy">bul. Slivnitsa 8, 9002 Varna</string>
+    <string name="loactionURI_happy">43.205640,27.919910</string>
+    <string name="workingHours_happy">All Week: 9:00 - 24:00</string>
+    <string name="description_happy">Happy Bar And Grill is a chain of casual restaurants in Bulgaria and Barcelona. You will enjoy exceptional quality of the food and high service standards. The restaurants also offers quality service by well trained staff, whose emblems are the smile, the hospitality and customer care.</string>
+    <string name="phone_happy">+35970020888</string>
+    <string name="siteUrl_happy">http://www.happy.bg/en/home.html</string>
+    <!-- Sundogs -->
+    <string name="title_sundogs">Sundogs</string>
+    <string name="address_sundogs">ul. Mihail Koloni 1, 9000 Varna</string>
+    <string name="loactionURI_sundogs">43.203467,27.917377</string>
+    <string name="workingHours_sundogs">All Week: 9:00 - 24:00</string>
+    <string name="description_sundogs">Wide variety of national and imported beers. Tasty food. Sport games on the screens. The best pub atmosphere in the heart of Varna. Good breakfast salads and friendly sociable service. Plenty of foreigners around so languages are not a problem.</string>
+    <string name="phone_sundogs">+359988936630</string>
+    <string name="siteUrl_sundogs">http://www.sundogspub.com/</string>
+    <!-- The Sea Terrace -->
+    <string name="title_seaterrace">The Sea Terrace</string>
+    <string name="address_seaterrace">Sea Garden, 9000 Varna</string>
+    <string name="loactionURI_seaterrace">43.202496,27.924180</string>
+    <string name="workingHours_seaterrace">All Week: 11:00 - 24:00</string>
+    <string name="description_seaterrace">The Sea Terrace offers spectacular view, ideal for a romantic evening. The service was friendly and accommodating. You can expect  delicious food - from coconut shrimp skewers, calamari, seafood risotto to aglio olio e peperoncino pasta with salmon and shrimp, and paleo salad. Do not miss the desserts either. During the summer it is recommended to reserve a table.</string>
+    <string name="phone_seaterrace">+359882505050</string>
+    <string name="siteUrl_seaterrace">http://theseaterrace.bg/</string>
+    <!-- Bars -->
+    <!-- Cubo -->
+    <string name="title_cubo">Cubo</string>
+    <string name="address_cubo">Sea Garden, 9000 Varna</string>
+    <string name="loactionURI_cubo">43.202477,27.923971</string>
+    <string name="workingHours_cubo">All Week: 8:00 - 4:00</string>
+    <string name="description_cubo">It\'s a place full of young people and lively casual atmosphere. You can lay on the beach with cocktail in your hand or have fun with friends during the evening. There is a dj playing every night during the summer - mainly funk and disco music which gives the bar an additional summer vibe. Live bands are also occasionally playing. Board games available, electricity plugs, too. There is covered terrace, so no worries if it rains.</string>
+    <string name="phone_cubo">+359898425232</string>
+    <string name="siteUrl_cubo">https://www.facebook.com/bar.cubo</string>
+    <!-- Pampero -->
+    <string name="title_pampero">Pampero</string>
+    <string name="address_pampero">ul. Preslav 42, 9000 Varna</string>
+    <string name="loactionURI_pampero">43.203247,27.913690</string>
+    <string name="workingHours_pampero">All Week: 8:00 - 4:00</string>
+    <string name="description_pampero">Pampero is the type of bar that is amazing for every occasion. It has true class and style whilst also maintaining its casual local feel. The decor and cuisine are completely on point and the bar staff is always friendly. The bar occupies a four-story building so there are four levels to enjoy - from hammock chill vibes to swinging chairs and lowlight. During the summer you can have a drink or coffee outside - right in the city center of Varna.</string>
+    <string name="phone_pampero">+359884707870</string>
+    <string name="siteUrl_pampero">https://www.facebook.com/barpamperoarapya/</string>
+    <!-- Averi Beers -->
+    <string name="title_averi">Averi Beers</string>
+    <string name="address_averi">ul. Arhimandrit Filaret 9, 9001 Varna</string>
+    <string name="loactionURI_averi">43.203009,27.916837</string>
+    <string name="workingHours_averi">All Week: 10:00 - 22:00</string>
+    <string name="description_averi">Averi Beers is actually a craft beer shop, but there are tables outside of it. The variety of craft beers is enormous and you can always consult with the friendly staff. Averi is a Bulgarian word for friends, and the shop is the best place to have a glass of beer with your mates during the hot summer. The local draft beer Glarus is one of the most popular in Varna and there are even four flavors to choose from.</string>
+    <string name="phone_averi">+359886145854</string>
+    <string name="siteUrl_averi">http://averibeers.com/</string>
+    <!-- Menthol -->
+    <string name="title_menthol">Menthol</string>
+    <string name="address_menthol">Sea Garden, 9000 Varna</string>
+    <string name="loactionURI_menthol">43.2019443,27.9237781</string>
+    <string name="workingHours_menthol">All Week: 8:00 - 3:00</string>
+    <string name="description_menthol">Menthol is a nice place for relaxing on the beach. You can go to swim and then come back and enjoy the drinks and lovely time spend with friends. You can also have some great time at night. Friendly staff, affordable, lovely view and often gigs make this place worth recommending.</string>
+    <string name="phone_menthol">+359899128996</string>
+    <string name="siteUrl_menthol">https://www.facebook.com/MentholBar/</string>
+    <!-- Bolla -->
+    <string name="title_bolla">Bolla</string>
+    <string name="address_bolla">ul. "Aleksander Malinov" 1, 9000 Varna</string>
+    <string name="loactionURI_bolla">43.205188,27.918934</string>
+    <string name="workingHours_bolla">All Week: 19:00 - 4:00</string>
+    <string name="description_bolla">Bolla bar is considered as the underground place of Varna. During the winter there are djs and bands playing every Friday and Saturday. The service is good and you can enjoy a large variety of drinks. Enjoy the cozy atmosphere and do not miss the tabasco shots.</string>
+    <string name="phone_bolla"> +359898505211</string>
+    <string name="siteUrl_bolla">https://www.facebook.com/BollaBar/</string>
+    <!-- Vintage 33 -->
+    <string name="title_vintage">Vintage 33</string>
+    <string name="address_vintage">bul. Knyaz Boris I 115, 9002 Varna</string>
+    <string name="loactionURI_vintage">43.2104506,27.9306513</string>
+    <string name="workingHours_vintage">All Week: 19:00 - 4:00</string>
+    <string name="description_vintage">Vintage 33 is the best live music venue in Varna. It takes a good amount of space and the atmosphere is cozy. The service is friendly and there is a nice selection of drinks. If you want to hear the sound of the Bulgarian bands, have a different kind of party or just enjoy the good times, do not miss this place.</string>
+    <string name="phone_vintage">+359888614353</string>
+    <string name="siteUrl_vintage">https://www.facebook.com/vintage33/</string>
+    <!-- Makalali -->
+    <string name="title_makalali">Makalali</string>
+    <string name="address_makalali">Sea Garden, 9000 Varna</string>
+    <string name="loactionURI_makalali">43.203127,27.924632</string>
+    <string name="workingHours_makalali">All Week: 8:00 - 6:00</string>
+    <string name="description_makalali">Makalali is bar and club focused on electronic music. There are parties going on every night during the summer. The venue hosts popular house djs from Bulgaria and abroad. Daytimes are also not to be missed thanks to the nice and casual beach style interior and lounge music. Located on the beach it offers beautiful view, casual atmosphere and refreshing drinks.</string>
+    <string name="phone_makalali">+359882828220</string>
+    <string name="siteUrl_makalali">https://www.facebook.com/BeachBarMakalali/</string>
+</resources>
