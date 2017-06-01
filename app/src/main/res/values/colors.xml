@@ -6,4 +6,7 @@
     <color name="sandColor">#f9f2d7</color>
     <color name="categorySelector">#c4e9ff</color>
     <color name="clickedItem">#f0f0f0</color>
+    <color name="shadeOfWhite">#f2f2f2</color>
+    <color name="shadeOfBlue">#5677a4</color>
+    <color name="bottomShadowInCover">#33333333</color>
 </resources>

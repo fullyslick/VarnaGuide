@@ -13,7 +13,6 @@ import android.support.v4.app.FragmentPagerAdapter;
 public class PlacePagerAdapter extends FragmentPagerAdapter {
 
     private Context mContext;
-    private String tabTitles[] = new String[] { "Sights", "Museums", "Food", "Bars" };
 
     //Public constructor for the ViewPager Adapter
     public PlacePagerAdapter(FragmentManager fm, Context context) {
@@ -24,14 +23,11 @@ public class PlacePagerAdapter extends FragmentPagerAdapter {
     @Override
     public Fragment getItem(int position) {
         //Set the Fragments as ViewPager items
-        if (position == 0) {
-            return new SightsFragment();
-        } else if (position == 1) {
-            return new MuseumsFragment();
-        } else if (position == 2) {
-            return new RestaurantsFragment();
-        } else {
-            return new BarFragment();
+        switch (position){
+            case 0: return new SightsFragment();
+            case 1: return new MuseumsFragment();
+            case 2: return new RestaurantsFragment();
+            default: return new BarFragment();
         }
     }
 
@@ -43,6 +39,11 @@ public class PlacePagerAdapter extends FragmentPagerAdapter {
     @Override
     public CharSequence getPageTitle(int position) {
         // Generate title based on item position
-        return tabTitles[position];
+        switch (position){
+            case 0: return mContext.getString(R.string.sights);
+            case 1: return mContext.getString(R.string.muesums);
+            case 2: return mContext.getString(R.string.food);
+            default: return mContext.getString(R.string.bars);
+        }
     }
 }
